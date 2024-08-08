@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
     "sass": "^1.77.8"
   }
 }
